@@ -6,7 +6,7 @@
 
 ---
 
-### 1. Currently Working On
+### 1. Currently Worked On
 
 - 💼 [FinVault](https://github.com/atharvapugade/FinVault) – A smart wealth & risk management platform using MERN stack
 - 🛵 [RideMate](https://github.com/atharvapugade/RideMate) – Ride-sharing system with women safety features
