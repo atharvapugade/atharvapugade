@@ -18,7 +18,7 @@
 
 - **Languages**: JavaScript, Python, Java
 - **Frontend**: React.js, HTML/CSS
-- **Backend**: Node.js, Express.js,php
+- **Backend**: Node.js, Express.js, php
 - **Database**: MongoDB Atlas
 - **Tools**: Git, Postman, Firebase, JWT
 - **APIs Used**: Yahoo Finance, FMP, Mapbox, DigiLocker (planned)
